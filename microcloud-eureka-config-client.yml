@@ -33,10 +33,10 @@ eureka:
 spring:
   profiles: dev
   application:
-    name: eureka-config-client-dev
+    name: microcloud-config-eureka-client
 
 ---
 spring:
   profiles: bate
   application:
-    name: eureka-config-client-bate
+    name: microcloud-config-eureka-client
